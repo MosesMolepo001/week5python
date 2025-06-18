@@ -1,5 +1,0 @@
-Hello, this is a sample input file.
-It contains multiple lines of text.
-Each line will be read and processed by the Python script.
-This file is used to test file reading and writing operations.
-Enjoy coding!
